@@ -12,56 +12,83 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/comfy.js/dist/comfy.min.js"></script>
   <script src="web/tinycolor.js"></script>
-  <link href="https://fonts.googleapis.com/css?family=Hind|Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Open+Sans&display=swap" rel="stylesheet">
   <style>
 	  @font-face {
-		  font-family: OpenDyslexic;
-		  src: url( web/fonts/OpenDyslexic-Regular.woff );
+		  font-family: CarmineOakFont;
+		  src: url( web/fonts/CarmineOakFont.ttf );
 	  }
-    h2 { font-family: 'Hind', sans-serif; font-size: 5vw; margin: 0; padding: 0; }
+    h2 { font-family: 'Press Start 2P', cursive; font-size: 5vw; margin: 0; padding: 0; }
     p { margin: 0; padding: 0; }
-    body { font-family: 'OpenDyslexic', sans-serif; font-size: 4vw; color: white; height: 100%; }
+    body { font-family: 'CarmineOakFont', cursive; font-size: 4vw; color: white; height: 100%; }
 	.chat-container {
 	}
     .parent-container {
       /* height: 100%; */
       /* vertical-align: bottom; */
-	  display: block;
-	  padding: 0.25vw;
+  	  display: flex;
+  	  padding: 0.25vw;
     }
     .translucent-bg {
       padding: 1vw;
-      border-radius: 2px;
-      background: rgba( 0, 0, 0, 0.75 );
+      /*border-radius: 2px;*/
+      border-style: ridge;
+      border-radius: 12px;
+      /* background: rgba( 0, 0, 0, 0.75 ); */
+      background: url( web/img/pattern.png );
+      opacity: 0.75;
       width: 100%;
     }
 	.notice-bg {
       padding: 1vw;
-      border-radius: 2px;
-	  background: #6C349C;
+      /*border-radius: 2px;*/
+      border-style: ridge;
+      border-radius: 12px;
+	  /*background: #6C349C;*/
+    background: linear-gradient( rgba( 108, 52, 157, 0.5 ), rgba( 108, 52, 157, 0.5 ) ), url( web/img/pattern.png );
+    opacity: 0.75;
 	  width: 100%;
 	}
 	.highlight-bg {
       padding: 1vw;
-      border-radius: 2px;
-	  background: #7D061E;
-	  width: 100%;
+      /*border-radius: 2px;*/
+      border-style: ridge;
+      border-radius: 12px;
+      /*background: #7D061E;*/
+      background: linear-gradient( rgba( 127, 6, 30, 0.5 ), rgba( 127, 6, 30, 0.5 ) ), url( web/img/pattern.png );
+      opacity: 0.75;
+  	  width: 100%;
 	}
     .chat-badges {
-      padding: 0.5vw;
+      background: #5FCDE4;
+      border-bottom: 4px solid white;
+      border-top: 4px solid white;
+      border-left: 4px solid white;
+      border-top-left-radius: 12px;
+      border-bottom-left-radius: 12px;
+      opacity: 0.75;
     }
     .chat-badge {
       padding: 0.5vw;
     }
 	.chat-username {
-	  /* -webkit-text-stroke-width: 1px;
-  	  -webkit-text-stroke-color: white; */
-  		text-shadow:
-  			1px 1px 0 #000,
-  			-1px -1px 0 #000,
-  			1px -1px 0 #000,
-  			-1px 1px 0 #000,
-  			1px 1px 0 #000;
+    padding-left: 0.2vw;
+    padding-right: 0.2vw;
+	  /*-webkit-text-stroke-width: 1px;
+  	  -webkit-text-stroke-color: white;*/
+      text-shadow:
+        1px 1px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+      background: #5FCDE4;
+      border-bottom: 4px solid white;
+      border-top: 4px solid white;
+      border-right: 4px solid white;
+      border-top-right-radius: 12px;
+      border-bottom-right-radius: 12px;
+      opacity: 0.75;
 	}
 	.footer {
 	  position: fixed;
