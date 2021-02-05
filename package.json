@@ -1,33 +1,33 @@
 {
-  "name": "readgood",
+  "name": "yatwichavi",
   "version": "1.0.0",
-  "description": "Dyslexia-Friendly Twitch Chat View Using OpenDyslexic Font!",
+  "description": "Yet Another Twitch Chat Viewer!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/instafluff/ReadGood.git"
+    "url": "git+https://github.com/gilokk0/YATwiChaVi.git"
   },
   "keywords": [
-    "Dyslexia",
-    "Dyslexic",
+    "Yet",
+    "Another",
     "Twitch",
     "Chat",
     "Reader",
     "Viewer",
-    "Instafluff",
+    "Gilokk0",
     "Good",
     "Easy",
     "Words"
   ],
-  "author": "Instafluff",
+  "author": "Gilokk0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/instafluff/ReadGood/issues"
+    "url": "https://github.com/gilokk0/YATwiChaVi/issues"
   },
-  "homepage": "https://github.com/instafluff/ReadGood#readme",
+  "homepage": "https://github.com/gilokk0/YATwiChaVi#readme",
   "dependencies": {
     "webwebweb": "^1.1.10"
   }

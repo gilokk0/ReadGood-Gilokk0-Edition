@@ -14,16 +14,12 @@ This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/Re
 - BTTV & FrankerFaceZ Emotes
 - Long words word-wrap
 
-## Instafluff ##
-> *Like these projects? The best way to support my open-source projects is by becoming a Comfy Sponsor on GitHub!*
+## Gilokk0 ##
+> *Come and hang out with us on Twitch!*
 
-> https://github.com/sponsors/instafluff
+> https://twitch.tv/gilokk0
 
-> *Come and hang out with us at the Comfiest Corner on Twitch!*
-
-> https://twitch.tv/instafluff
-
-![Screenshot](https://www.instafluff.tv/ReadGood/screenshot.png "ReadGood Screenshot")
+![Screenshot](https://gilokk0.github.io/YATwiChaVi/screenshot.png "ReadGood Screenshot")
 
 ## Instructions ##
 
