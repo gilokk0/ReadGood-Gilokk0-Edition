@@ -1,7 +1,7 @@
-**YetAnotherTwitchChatViewer - YATwiChaVi** Twitch Chat Viewer Using CarmineOakFont Font!
+**YetAnotherTwitchChatViewer - YATwiChaVi** - Twitch Chat Viewer Using CarmineOakFont Font!
 
 # YATwiChaVi
-This Twitch chat viewer is based on ReadGood, a Dyslexia-Friendly Twitch Chat View that was built live on Twitch at the Comfy Corner!
+This Twitch chat viewer is based on [ReadGood](https://github.com/instafluff/ReadGood), a Dyslexia-Friendly Twitch Chat View that was built live on [Twitch](https://www.twitch.tv/instafluff) at the Comfy Corner!
 
 # Features
 - CarmineOakFont font chat
