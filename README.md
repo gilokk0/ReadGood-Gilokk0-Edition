@@ -1,7 +1,7 @@
-**YetAnotherTwitchChatViewer - YATwiChaVi** - Twitch Chat Viewer Using CarmineOakFont Font!
+**YATwiChaVi** - Yet Another Twitch Chat Viewer!
 
 # YATwiChaVi
-This Twitch chat viewer is based on [ReadGood](https://github.com/instafluff/ReadGood), a Dyslexia-Friendly Twitch Chat View that was built live on [Twitch](https://www.twitch.tv/instafluff) at the Comfy Corner!
+This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/ReadGood), a Dyslexia-Friendly Twitch Chat View that was built live on [Twitch](https://www.twitch.tv/instafluff) at the Comfy Corner!
 
 # Features
 - CarmineOakFont font chat
@@ -30,13 +30,13 @@ This Twitch chat viewer is based on [ReadGood](https://github.com/instafluff/Rea
 
 Add this as a Browser Source and replace `yourchannel` with your Twitch username!
 
-[https://www.instafluff.tv/ReadGood?channel=yourchannel](https://www.instafluff.tv/ReadGood?channel=yourchannel)
+[https://gilokk0.github.io/YATwiChaVi?channel=yourchannel](https://gilokk0.github.io/YATwiChaVi?channel=yourchannel)
 
 You can also add an optional value in the url to ignore !commands and users:
 
 ```
 For example:
-https://www.instafluff.tv/ReadGood?channel=instafluff&ignoreCommands=true&ignoreUsers=nightbot,streamelements
+https://gilokk0.github.io/YATwiChaVi?channel=gilokk0&ignoreCommands=true&ignoreUsers=nightbot,streamelements
 ```
 
 ## Credits ##
