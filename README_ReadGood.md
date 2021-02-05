@@ -1,11 +1,11 @@
-**YetAnotherTwitchChatViewer - YATwiChaVi** Twitch Chat Viewer Using CarmineOakFont Font!
+**ReadGood** Dyslexia-Friendly Twitch Chat View Using [OpenDyslexic](https://www.opendyslexic.org) Font!
 
-# YATwiChaVi
-This Twitch chat viewer is based on ReadGood, a Dyslexia-Friendly Twitch Chat View that was built live on Twitch at the Comfy Corner!
+# ReadGood
+We built this Dyslexia-Friendly Twitch Chat View live on Twitch at the Comfy Corner!
 
 # Features
-- CarmineOakFont font chat
-- Chatter Highlighting (Purple)
+- [OpenDyslexic](https://www.opendyslexic.org) font chat
+- New Chatter Highlighting (Purple)
 - Tagged @ Message Highlighting (Red)
 - Auto-Scroll & Chat History Scroll-Lock
 
