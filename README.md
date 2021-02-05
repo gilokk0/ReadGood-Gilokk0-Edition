@@ -12,7 +12,6 @@ This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/Re
 # Planned
 - Channel Point Redemptions
 - BTTV & FrankerFaceZ Emotes
-- Other Fonts
 - Long words word-wrap
 
 ## Instafluff ##
