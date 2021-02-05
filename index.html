@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>ReadGood - Dyslexia-Friendly Twitch Chat Viewer!</title>
+  <title>YATwiChaVi - ReadGood-based Twitch Chat Viewer!</title>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135113520-1"></script>
   <script>
@@ -32,7 +32,7 @@
     .translucent-bg {
       padding: 1vw;
       /*border-radius: 2px;*/
-      border-style: ridge;
+      border: 4px solid white;
       border-radius: 12px;
       /* background: rgba( 0, 0, 0, 0.75 ); */
       background: url( web/img/pattern.png );
@@ -42,17 +42,17 @@
 	.notice-bg {
       padding: 1vw;
       /*border-radius: 2px;*/
-      border-style: ridge;
+      border: 4px solid white;
       border-radius: 12px;
-	  /*background: #6C349C;*/
-    background: linear-gradient( rgba( 108, 52, 157, 0.5 ), rgba( 108, 52, 157, 0.5 ) ), url( web/img/pattern.png );
-    opacity: 0.75;
-	  width: 100%;
+  	  /*background: #6C349C;*/
+      background: linear-gradient( rgba( 108, 52, 157, 0.5 ), rgba( 108, 52, 157, 0.5 ) ), url( web/img/pattern.png );
+      opacity: 0.75;
+  	  width: 100%;
 	}
 	.highlight-bg {
       padding: 1vw;
       /*border-radius: 2px;*/
-      border-style: ridge;
+      border: 4px solid white;
       border-radius: 12px;
       /*background: #7D061E;*/
       background: linear-gradient( rgba( 127, 6, 30, 0.5 ), rgba( 127, 6, 30, 0.5 ) ), url( web/img/pattern.png );
@@ -60,21 +60,20 @@
   	  width: 100%;
 	}
     .chat-badges {
-      background: #5FCDE4;
+      background: rgba( 94, 205, 228, 0.75 );
       border-bottom: 4px solid white;
       border-top: 4px solid white;
       border-left: 4px solid white;
       border-top-left-radius: 12px;
       border-bottom-left-radius: 12px;
-      opacity: 0.75;
     }
     .chat-badge {
       padding: 0.5vw;
     }
 	.chat-username {
-    padding-left: 0.2vw;
-    padding-right: 0.2vw;
-	  /*-webkit-text-stroke-width: 1px;
+      padding-left: 0.2vw;
+      padding-right: 0.2vw;
+  	  /*-webkit-text-stroke-width: 1px;
   	  -webkit-text-stroke-color: white;*/
       text-shadow:
         1px 1px 0 #000,
@@ -82,13 +81,12 @@
         1px -1px 0 #000,
         -1px 1px 0 #000,
         1px 1px 0 #000;
-      background: #5FCDE4;
+      background: rgba( 94, 205, 228, 0.75 );
       border-bottom: 4px solid white;
       border-top: 4px solid white;
       border-right: 4px solid white;
       border-top-right-radius: 12px;
       border-bottom-right-radius: 12px;
-      opacity: 0.75;
 	}
 	.footer {
 	  position: fixed;
