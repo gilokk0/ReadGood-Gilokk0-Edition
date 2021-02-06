@@ -15,7 +15,7 @@ This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/Re
 - BTTV & FrankerFaceZ Emotes
 
 ## Gilokk0 ##
-> *Come and hang out with us on Twitch!*
+> *Come and hang out with me on Twitch!*
 
 > https://twitch.tv/gilokk0
 
