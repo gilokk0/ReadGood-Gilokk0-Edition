@@ -19,7 +19,7 @@ This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/Re
 
 > https://twitch.tv/gilokk0
 
-![Screenshot](https://gilokk0.github.io/YATwiChaVi/screenshot.png "ReadGood Screenshot")
+![Screenshot](https://gilokk0.github.io/YATwiChaVi/screenshot.png "YATwiChaVi Screenshot")
 
 ## Instructions ##
 
