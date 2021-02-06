@@ -8,11 +8,11 @@ This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/Re
 - Chatter Highlighting (Purple)
 - Tagged @ Message Highlighting (Red)
 - Auto-Scroll & Chat History Scroll-Lock
+- Long words word-wrap
 
 # Planned
 - Channel Point Redemptions
 - BTTV & FrankerFaceZ Emotes
-- Long words word-wrap
 
 ## Gilokk0 ##
 > *Come and hang out with us on Twitch!*
