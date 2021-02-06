@@ -1,7 +1,7 @@
-**YATwiChaVi** - Yet Another Twitch Chat Viewer!
+**YATChaV** - Yet Another Twitch Chat View!
 
-# YATwiChaVi
-This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/ReadGood) by [Instafluff](https://github.com/instafluff), a Dyslexia-Friendly Twitch Chat View that was built live on Twitch at the [Comfy Corner](https://www.twitch.tv/instafluff)!
+# YATChaV
+This Twitch chat view is a fork of [ReadGood](https://github.com/instafluff/ReadGood) by [Instafluff](https://github.com/instafluff), a Dyslexia-Friendly Twitch Chat View that was built live on Twitch at the [Comfy Corner](https://www.twitch.tv/instafluff)!
 
 # Features
 - CarmineOakFont font chat
@@ -19,19 +19,19 @@ This Twitch chat viewer is a fork of [ReadGood](https://github.com/instafluff/Re
 
 > https://twitch.tv/gilokk0
 
-![Screenshot](https://gilokk0.github.io/YATwiChaVi/screenshot.png "YATwiChaVi Screenshot")
+![Screenshot](https://gilokk0.github.io/YATChaV/screenshot.png "YATChaV Screenshot")
 
 ## Instructions ##
 
 Add this as a Browser Source and replace `yourchannel` with your Twitch username!
 
-[https://gilokk0.github.io/YATwiChaVi?channel=yourchannel](https://gilokk0.github.io/YATwiChaVi?channel=yourchannel)
+[https://gilokk0.github.io/YATwiChaVi?channel=yourchannel](https://gilokk0.github.io/YATChaV?channel=yourchannel)
 
 You can also add an optional value in the url to ignore !commands and users:
 
 ```
 For example:
-https://gilokk0.github.io/YATwiChaVi?channel=gilokk0&ignoreCommands=true&ignoreUsers=nightbot,streamelements
+https://gilokk0.github.io/YATChaV?channel=gilokk0&ignoreCommands=true&ignoreUsers=nightbot,streamelements
 ```
 
 ## Credits From [ReadGood](https://github.com/instafluff/ReadGood) ##

@@ -1,33 +1,30 @@
 {
-  "name": "yatwichavi",
+  "name": "yatchav",
   "version": "1.0.0",
-  "description": "Yet Another Twitch Chat Viewer!",
+  "description": "Yet Another Twitch Chat View!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gilokk0/YATwiChaVi.git"
+    "url": "git+https://github.com/gilokk0/YATChaV.git"
   },
   "keywords": [
     "Yet",
     "Another",
     "Twitch",
     "Chat",
-    "Reader",
-    "Viewer",
+    "View",
     "Gilokk0",
-    "Good",
-    "Easy",
     "Words"
   ],
   "author": "Gilokk0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gilokk0/YATwiChaVi/issues"
+    "url": "https://github.com/gilokk0/YATChaV/issues"
   },
-  "homepage": "https://github.com/gilokk0/YATwiChaVi#readme",
+  "homepage": "https://github.com/gilokk0/YATChaV#readme",
   "dependencies": {
     "webwebweb": "^1.1.10"
   }
