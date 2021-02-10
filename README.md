@@ -1,7 +1,7 @@
 **YATChaV** - Yet Another Twitch Chat View!
 
 # YATChaV
-This Twitch chat view is a fork of [ReadGood](https://github.com/instafluff/ReadGood) by [Instafluff](https://github.com/instafluff), a Dyslexia-Friendly Twitch Chat View that was built live on Twitch at the [Comfy Corner](https://www.twitch.tv/instafluff)!
+This Twitch chat view is a fork of [ReadGood](https://github.com/instafluff/ReadGood) 📖👍 by [Instafluff](https://github.com/instafluff), a Dyslexia-Friendly Twitch Chat View that was built live on Twitch at the [Comfy Corner](https://www.twitch.tv/instafluff)!
 
 # Features
 - CarmineOakFont font chat
