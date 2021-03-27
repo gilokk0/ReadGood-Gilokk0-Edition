@@ -25,7 +25,7 @@ This Twitch chat view is a fork of [ReadGood](https://github.com/instafluff/Read
 
 Add this as a Browser Source and replace `yourchannel` with your Twitch username!
 
-[https://gilokk0.github.io/YATwiChaVi?channel=yourchannel](https://gilokk0.github.io/YATChaV?channel=yourchannel)
+[https://gilokk0.github.io/YATChaV?channel=yourchannel](https://gilokk0.github.io/YATChaV?channel=yourchannel)
 
 You can also add an optional value in the url to ignore !commands and users:
 
